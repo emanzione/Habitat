@@ -21,11 +21,11 @@ It includes various interesting features like:
  - basic AI
 
 ## Contributors ##
-Guglielmo Mirone *(dialogues and texts)*
-Giovanni Vitolo *(testing and bugs finding)*
-Cosimo Manzione *(programming)*
-Emanuele Manzione *(programming)*
+ - Guglielmo Mirone *(dialogues and texts)*
+ - Giovanni Vitolo *(testing and bugs finding)*
+ - Cosimo Manzione *(programming)*
+ - Emanuele Manzione *(programming)*
 
 ## Useful links ##
-[GameJolt - Habitat](http://gamejolt.com/games/habitat/154894)
-[Itch.io - Habitat](https://manhunter.itch.io/habitat)
+ - [GameJolt - Habitat](http://gamejolt.com/games/habitat/154894)
+ - [Itch.io - Habitat](https://manhunter.itch.io/habitat)
