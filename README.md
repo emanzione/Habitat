@@ -1,7 +1,7 @@
 # Habitat
 
 This game is my entry for IVGJ2016, it has been created in two weeks, in my free time. 
-It classified 3rd place in this competition.
+It classified 2nd place in this competition.
 
 ## Intro ##
 > A bunch of scientists are partecipating to a science showdown with their entry: a little synthetic world, populated by little creatures.
