@@ -1,3 +1,5 @@
+![Habitat](screenshot.png)
+
 # Habitat
 
 This game is my entry for IVGJ2016, it has been created in two weeks, in my free time. 
